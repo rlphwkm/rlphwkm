@@ -9,7 +9,7 @@
 
 - Major: **Cybersecurity**
 
-- Minors: **CS**, **IS**, **IT**
+- Minors: **Computer Sciense**, **Information Systems**, **Information Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
