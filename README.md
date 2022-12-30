@@ -3,8 +3,6 @@
 
 - Current occupation: **Full time student**
 
-- Graduation year: **2026**
-
 - Location: **New York**
 
 - Major: **Cybersecurity**
