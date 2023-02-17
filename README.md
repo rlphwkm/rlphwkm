@@ -11,7 +11,7 @@
 - Minors: **Computer Science**, **Information Systems**, **Information Technology**
 
 
-<h3 align="left">Connect with me by visiting [my business card here: ralphwakim.github.io] (https://ralphwakim.github.io)</h3>
+<h3 align="left">Connect with me by visiting <a href="https://ralphwakim.github.io">my business card here</a>.</h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlphwkm&show_icons=true&locale=en&layout=compact" alt="rlphwkm" /></p>
