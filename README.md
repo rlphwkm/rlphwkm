@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ralph!</h1>
-#>Hi 👋, I'm Ralph!
+# Hi 👋, I'm Ralph!
 <h3 align="center">Here's a little about me for you to know me better!</h3>
 
 - Current occupation: **Full time student**
